@@ -1,5 +1,5 @@
-# fatfree-tutorial-simple-intro
+# fatfree-tutorial-framework-variables
 
-This is the code for a youtube video that gives you a simple intro to the Fat-Free PHP Framework
+This is the code for a youtube video that goes over setting and getting variables in the Fat-Free PHP Framework
 
-https://www.youtube.com/watch?v=EBYoyGOAcfo&t=6s
+https://youtu.be/f3kV7oYG89M
